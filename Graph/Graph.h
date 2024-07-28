@@ -22,9 +22,8 @@ class Graph{
         numVertices = 0;
     }
 
-    ~Graph(){} // Deallocates Graph objects
+    ~Graph(){ // Deallocates Graph object
 
-
-
+    } 
 
 };
