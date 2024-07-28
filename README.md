@@ -12,4 +12,4 @@ Includes:
 - Linked List  
 - Trie 
 - Trees 
-- UnionFind
+- Union Find
