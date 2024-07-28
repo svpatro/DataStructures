@@ -1,3 +1,11 @@
+/*
+
+Author: Shamik V. Patro
+
+Purpose: Demonstrate Linked List data structure.
+
+*/
+
 #include <iostream>
 #include "Node.h"
 #include "LinkedList.h"
