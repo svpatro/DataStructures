@@ -21,6 +21,11 @@ int main(){
     }
 
     stack->push(15);
+
+    std::cout << std::endl;
+    std::cout << "Top of Stack Value: ";
+    std::cout << stack->peak() << std::endl;
+
     std::cout << std::endl;
     std::cout << "2) Popping stack..." << std::endl;
     std::cout << std::endl;

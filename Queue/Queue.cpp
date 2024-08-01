@@ -17,6 +17,5 @@ int main(){
     q->print();
     std::cout << std::endl;
 
-
     return 0;
 }

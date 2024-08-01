@@ -1,9 +1,6 @@
 /*
-
 Author: Shamik V. Patro
-
 Purpose: Demonstrate AVL Tree.
-
 */
 
 #include <iostream>
@@ -13,5 +10,5 @@ int main(){
 
 
     return 0;
-    
+
 }

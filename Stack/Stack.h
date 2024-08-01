@@ -40,6 +40,10 @@ class Stack {
             return stack[topOfStack--];
         }
 
+        int peak(){
+            return stack[topOfStack];
+        }
+
         int size() {
             return (topOfStack+1);
         }
